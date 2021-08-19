@@ -72,3 +72,10 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Bibliografía
 
+* López-Hernández, M. (2007, julio). Análisis multimétrico para evaluar contaminación en el río Lerma y lago de Chapala, México. SCIELO. [http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0188-88972007000400003](http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0188-88972007000400003)
+* Redacción AM. (2016, 26 abril). Contaminan El Sabinal en Salvatierra. am. [https://www.am.com.mx/noticias/Contaminan-El-Sabinal-en-Salvatierra-20160425-0066.html]
+* Guanajuato - Salvatierra. (s. f.). INAFED. Recuperado 19 de agosto de 2021, de [http://www.inafed.gob.mx/work/enciclopedia/EMM11guanajuato/municipios/11028a.html](http://www.inafed.gob.mx/work/enciclopedia/EMM11guanajuato/municipios/11028a.html)
+* Gobierno de Salvatierra. (2020). Programa Municipal de Desarrollo Urbano y de Ordenamiento.[https://seieg.iplaneg.net/seieg/doc/SALVATIERRA_VI_1590188318.pdf](https://seieg.iplaneg.net/seieg/doc/SALVATIERRA_VI_1590188318.pdf)
+* Secretaría de Medio Ambiente y Recursos Naturales. (2020). PROYECTO HIDROELECTRICO PARA LA GENERACION DE ENERGIA RENOVABLE DE LA HIDROELECTRICA LA CAROLINA, SALVATIERRA, GUANAJUATO, MEX. [https://apps1.semarnat.gob.mx:8443/dgiraDocs/documentos/gto/estudios/2019/11GU2019E0111.pdf](https://apps1.semarnat.gob.mx:8443/dgiraDocs/documentos/gto/estudios/2019/11GU2019E0111.pdf)
+
+
