@@ -12,11 +12,7 @@ El proyecto se enfoca en restaurar el Río Lerma el cual es uno de los ríos má
 
 El **ODS** involucrado en nuestro club es el No. 15 "Vida de Ecosistemas Terrestres", el cual consiste en restaurar y cuidar ecosistemas dañados para evitar enfermedades generadas por estos ecosistemas, además de preservar la fauna y flora que contengan estos ecosistemas. Nuestro proyecto involucra la cooperación no solo de la sociedad y gobierno, sino también del sector privado para que se evite la descarga de residuos dañinos para el río, además de generar una regulación para el manejor de residuos de las industrias y generar empleos que sea sostenibles gracias al río. Durante el club logramos aprender estrategias para poder monitorear especies, ver la restauración de un ecosistema muy dañado y ver estrategias para obtener fondos y apoyo para que el proyecto se pueda realizar.
 
-
-## Ubicación y uso del Río Lerma
-El Río Lerma es uno de los ríos más grandes e importantes de México. Su longitud es de 50 km. Los servicios ecosistémicos que ofrece el Río Lerma benefician a diferentes municipios de los estados de Jalisco, Querétaro, Guanajuato, Michoacán y el Estado de México. Lo anterior contribuye a que sea uno de los cuerpos de agua con mayor uso intensivo. El Río Lerma sostiene a cerca de 11% de la población de México, a numerosos campos agrícolas y ganaderos, y más recientemente, a numerosas industrias: de alimentos, farmacéuticas, de papel, entre otras. 
-
-Esto último hace que el Río Lerma sea de vital importancia para México y hace que constantemente sufra descargas de residuos de todas las industrias y sectores anteriormente mencionados, es importante denotar que el Río Lerma al ser tan grande se necesitará de un gran apoyo tanto del gobierno mexicano como de la sociedad para poder acabar lo más pronto posible con esta problemática.
+## Ubicación 
 
 ![Mapa Rio Lerma](https://riosantiago.jalisco.gob.mx/sites/default/files/inline-images/mapa-cuenca.png "Mapa Río Lerma, hecho por Revivamos el Río Santiago")
 
