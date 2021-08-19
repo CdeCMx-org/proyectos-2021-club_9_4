@@ -10,14 +10,6 @@ El proyecto se enfoca en restaurar el Río Lerma el cual es uno de los ríos má
 
 El **ODS** involucrado en nuestro club es el No. 15 "Vida de Ecosistemas Terrestres", el cual consiste en restaurar y cuidar ecosistemas dañados para evitar enfermedades generadas por estos ecosistemas, además de preservar la fauna y flora que contengan estos ecosistemas. Nuestro proyecto involucra la cooperación no solo de la sociedad y gobierno, sino también del sector privado para que se evite la descarga de residuos dañinos para el río, además de generar una regulación para el manejor de residuos de las industrias y generar empleos que sea sostenibles gracias al río. Durante el club logramos aprender estrategias para poder monitorear especies, ver la restauración de un ecosistema muy dañado y ver estrategias para obtener fondos y apoyo para que el proyecto se pueda realizar.
 
-## Ubicación 
-
----
-
-![Mapa Rio Lerma](https://riosantiago.jalisco.gob.mx/sites/default/files/inline-images/mapa-cuenca.png "Mapa Río Lerma, hecho por Revivamos el Río Santiago")
-
-
-
 ### Objetivos particulares
 
 ---
@@ -37,12 +29,7 @@ La flora asociada al Río Lerma es: ahuehuete, sauce, carrizal y pino. Sin embar
 
 La fauna es representada por cientos de grupos de vertebrados e invertebrados. Dentro de los animales más representados encontramos: conejo, tlacuache, coyote, ardilla, coralillo, alicante, zorrillo, lagartija, peces de río, zopilotes, gavilanes y palomas.
 
-
-Este es el momento en que nos compartas los resultados obtenidos en tu proyecto. Asegurate de incluir material visual (gráficas, fotos, diagramas, tablas). 
-
-Puedes inster imagenes utilizando Markdown `![](Logo_CdeCMx.png)`.
-
-![](Logo_CdeCMx.png)
+![](Flora.png)
 
 O utilizando codigo html `<img src="Logo_CdeCMx.png" width=200>`, la ventaja de utilizar html es que le puedes modificar el tamaño utilizando **width**.
 <img src="Logo_CdeCMx.png" width=200>
