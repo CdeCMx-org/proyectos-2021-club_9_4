@@ -18,7 +18,7 @@ El **ODS** involucrado en nuestro club es el No. 15 "Vida de Ecosistemas Terrest
 
 
 
-### Métodología
+### Objetivos
 
 ---
 
