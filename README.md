@@ -29,6 +29,15 @@ El **ODS** involucrado en nuestro club es el No. 15 "Vida de Ecosistemas Terrest
 
 ---
 
+#### Caracterización socioecológica del Río Lerma en la región de Salvatierra, Guanajuato
+
+Salvatierra es un municipio del estado de Guanajuato que se coincide hidrológicamente con las cuencas río Lerma-Salamanca y laguna de Pátzcuaro-Cuitzeo-Yuridia. En esta región dominan los climas: semicálido (semicálido subhúmedo) y templado (templado subhúmedo). La temperatura oscila entre 2 y 33.4 °C, con una media anual de 18.1°C. La precipitación pluvial ronda los 730mm anuales (CONABIO y IEE, 2015).
+
+La flora asociada al Río Lerma es: ahuehuete, sauce, carrizal y pino. Sin embargo, la diversidad de flora es diversa también en zonas aledañas, donde se puede observar huisache, mezquite, pirul, nopales, joconostle, garambullo y navajillo. 
+
+La fauna es representada por cientos de grupos de vertebrados e invertebrados. Dentro de los animales más representados encontramos: conejo, tlacuache, coyote, ardilla, coralillo, alicante, zorrillo, lagartija, peces de río, zopilotes, gavilanes y palomas.
+
+
 Este es el momento en que nos compartas los resultados obtenidos en tu proyecto. Asegurate de incluir material visual (gráficas, fotos, diagramas, tablas). 
 
 Puedes inster imagenes utilizando Markdown `![](Logo_CdeCMx.png)`.
