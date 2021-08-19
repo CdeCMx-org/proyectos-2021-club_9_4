@@ -15,6 +15,8 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
+1[](https://imagenes.milenio.com/pWY0CtbcEZxQG6NTp1tG5Z62-xc=/936x566/https://www.milenio.com/uploads/media/2017/05/15/contaminacion-rio-lerma-rio-lerma.jpeg " Río Lerma, tomada por Milenio ")
+
 - Bulleted
 - List
 
