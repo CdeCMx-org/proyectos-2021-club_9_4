@@ -1,21 +1,15 @@
 ## Restauración del Río Lerma .
-
-Puede utilizar el [editor en GitHub](https://github.com/CdeCMx-org/templates_paginaweb/edit/main/README.md) para mantener y obtener una vista previa del contenido de su sitio web en archivos Markdown. Siempre que guardes los cambios en este repositorio, GitHub Pages ejecutará [Jekyll](https://jekyllrb.com/) para reconstruir las páginas de su sitio, a partir del contenido de sus archivos Markdown. Puedes escoger otro template en la siguiente página [repository settings](https://github.com/CdeCMx-org/templates_paginaweb/settings/pages). El tema de este template fue guardado en `_config.yml`.
-
-El URL generado de tu página lo puedes encontrar en Settings -> Pages. 
-
-*Puedes ver los cambios reflejados en la página, solo toma en cuenta que puede tomar unos minutos en cambiar.*
-
+--- 
 ### Introducción
-
+---
 El proyecto se enfoca en restaurar el Río Lerma el cual es uno de los ríos más grandes del México, que pasa por los estados de Jalisco, Querétaro, Guanajuato, Michoacán y el Estado de México. La importancia del río no solo es por su extención, sino porque aparte es uno de los ríos de mayor uso intensivo, que sostiene a varias industrias como campos agrícolas y ganaderos, de alimentos, farmacéuticas, de papel, entre otras. Por ello, restaurar el río Lerma es muy importante para poder evitar que estas industrias pierdan recursos y que las poblaciones cercanas sufran consecuencias a su salud, debido al mal estado del río.
 
 El **ODS** involucrado en nuestro club es el No. 15 "Vida de Ecosistemas Terrestres", el cual consiste en restaurar y cuidar ecosistemas dañados para evitar enfermedades generadas por estos ecosistemas, además de preservar la fauna y flora que contengan estos ecosistemas. Nuestro proyecto involucra la cooperación no solo de la sociedad y gobierno, sino también del sector privado para que se evite la descarga de residuos dañinos para el río, además de generar una regulación para el manejor de residuos de las industrias y generar empleos que sea sostenibles gracias al río. Durante el club logramos aprender estrategias para poder monitorear especies, ver la restauración de un ecosistema muy dañado y ver estrategias para obtener fondos y apoyo para que el proyecto se pueda realizar.
-
+---
 ## Ubicación 
 
 ![Mapa Rio Lerma](https://riosantiago.jalisco.gob.mx/sites/default/files/inline-images/mapa-cuenca.png "Mapa Río Lerma, hecho por Revivamos el Río Santiago")
-
+---
 ### Métodología
 
 Describe los pasos específicos que tomaste para realizar tu proyecto. Trata de hacer una descripción concreta y detallada. Si aplica, puedes incluir un diagrama describiendo el procedimiento. 
