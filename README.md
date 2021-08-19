@@ -51,7 +51,7 @@ Comparte tus observaciones, lo aprendedido, limitaciones y siguientes pasos.
 ### Equipo
 
 * Rojas Martínez Jonathan Francisco
-* Noemí
+* Noemí García Ponce
 
 
 
