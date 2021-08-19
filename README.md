@@ -1,4 +1,4 @@
-## Restauración del Río Lerma .
+## Restauración del Río Lerma
 --- 
 ### Introducción
 ---
