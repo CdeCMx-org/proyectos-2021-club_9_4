@@ -15,7 +15,7 @@ Describe de qué trata tu proyecto:
 * ¿cómo se relaciona lo aprendido en tu club para resolver el problema que planteaste?
 
 ## Ubicación y uso del Río Lerma
-El Río Lerma es uno de los ríos de agua más grandes e importantes de México. Su longitud es de 50 km. Los servicios ecosistémicos que ofrece el Río Lerma benefician a diferentes municipios de los estados de Jalisco, Querétaro, Guanajuato, Michoacán y el Estado de México. Lo anterior contribuye a que sea uno de los cuerpos de agua con mayor uso intensivo. El Río Lerma sostiene a cerca de 11% de la población de México, a numerosos campos agrícolas y ganaderos, y más recientemente, a numerosas industrias: de alimentos, farmacéuticas, de papel, entre otras. 
+El Río Lerma es uno de los ríos más grandes e importantes de México. Su longitud es de 50 km. Los servicios ecosistémicos que ofrece el Río Lerma benefician a diferentes municipios de los estados de Jalisco, Querétaro, Guanajuato, Michoacán y el Estado de México. Lo anterior contribuye a que sea uno de los cuerpos de agua con mayor uso intensivo. El Río Lerma sostiene a cerca de 11% de la población de México, a numerosos campos agrícolas y ganaderos, y más recientemente, a numerosas industrias: de alimentos, farmacéuticas, de papel, entre otras. 
 
 Esto último hace que el Río Lerma sea de vital importancia para México y hace que constantemente sufra descargas de residuos de todas las industrias y sectores anteriormente mencionados, es importante denotar que el Río Lerma al ser tan grande se necesitará de un gran apoyo tanto del gobierno mexicano como de la sociedad para poder acabar lo más pronto posible con esta problemática.
 
