@@ -18,13 +18,12 @@ El **ODS** involucrado en nuestro club es el No. 15 "Vida de Ecosistemas Terrest
 
 
 
-### Objetivos
+### Objetivos particulares
 
 ---
 
-Describe los pasos específicos que tomaste para realizar tu proyecto. Trata de hacer una descripción concreta y detallada. Si aplica, puedes incluir un diagrama describiendo el procedimiento. 
+![](objetivos.png)
 
-![](https://imagenes.milenio.com/pWY0CtbcEZxQG6NTp1tG5Z62-xc=/936x566/https://www.milenio.com/uploads/media/2017/05/15/contaminacion-rio-lerma-rio-lerma.jpeg " Río Lerma, tomada por Milenio ")
 
 ### Resultados
 
@@ -39,6 +38,7 @@ Puedes inster imagenes utilizando Markdown `![](Logo_CdeCMx.png)`.
 O utilizando codigo html `<img src="Logo_CdeCMx.png" width=200>`, la ventaja de utilizar html es que le puedes modificar el tamaño utilizando **width**.
 <img src="Logo_CdeCMx.png" width=200>
 
+![](https://imagenes.milenio.com/pWY0CtbcEZxQG6NTp1tG5Z62-xc=/936x566/https://www.milenio.com/uploads/media/2017/05/15/contaminacion-rio-lerma-rio-lerma.jpeg " Río Lerma, tomada por Milenio ")
 
 ### Conclusiones
 
