@@ -34,6 +34,8 @@ La región de Salvatierra sostiene a 97,054 habitantes. Las principales activida
 
 ![](Actividades.JPG)
 
+---
+
 #### 2 Grado de contaminación del Río Lerma y causas de deterioro
 
 Un estudio de 2007 (Sedeño-Días y López-López) señala que el promedio de calidad de agua de este caudal (WQI por sus siglas en inglés Water Quality Index) es entre 32.3 y 43.6, una muy baja calidad considerando que el valor más alto es 100, y que por debajo de los 50 puntos no es apta para consumo humano. 
@@ -41,6 +43,20 @@ Un estudio de 2007 (Sedeño-Días y López-López) señala que el promedio de ca
 La degradación de este río está densamente documentada. De acuerdo con esta información, podemos distinguir los factores de deterioro según su fuente: doméstica, agropecuarios e industriales.
 
 ![](Calidad.png)
+
+---
+
+#### 3 Estrategias ecológicas para saneamiento del río Lerma en el tramo Salvatierra, Guanajuato
+
+---
+
+#### 4 Actores potenciales participantes en el saneamiento del río Lerma
+
+---
+
+#### 5 Programa de saneamiento del río Lemra en el tramo Salvatierra, Guanajuato
+
+---
 
 O utilizando codigo html `<img src="Logo_CdeCMx.png" width=200>`, la ventaja de utilizar html es que le puedes modificar el tamaño utilizando **width**.
 <img src="Logo_CdeCMx.png" width=200>
@@ -70,12 +86,6 @@ Comparte tus observaciones, lo aprendedido, limitaciones y siguientes pasos.
 * Rojas Martínez Jonathan Francisco
 * García Noemí
 
-
-
-
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Bibliografía
 
