@@ -21,7 +21,7 @@ El **ODS** involucrado en nuestro club es el No. 15 "Vida de Ecosistemas Terrest
 
 ---
 
-#### Caracterización socioecológica del Río Lerma en la región de Salvatierra, Guanajuato
+#### 1 Caracterización socioecológica del Río Lerma en la región de Salvatierra, Guanajuato
 
 Salvatierra es un municipio del estado de Guanajuato que se coincide hidrológicamente con las cuencas río Lerma-Salamanca y laguna de Pátzcuaro-Cuitzeo-Yuridia. En esta región dominan los climas: semicálido (semicálido subhúmedo) y templado (templado subhúmedo). La temperatura oscila entre 2 y 33.4 °C, con una media anual de 18.1°C. La precipitación pluvial ronda los 730mm anuales (CONABIO y IEE, 2015).
 La flora asociada al Río Lerma es: ahuehuete, sauce, carrizal y pino. Sin embargo, la diversidad de flora es diversa también en zonas aledañas, donde se puede observar huisache, mezquite, pirul, nopales, joconostle, garambullo y navajillo (H. Ayuntamiento de Salvatierra, 2018).
@@ -34,12 +34,11 @@ La región de Salvatierra sostiene a 97,054 habitantes. Las principales activida
 
 ![](Actividades.JPG)
 
-#### Grado de contaminación del Río Lerma y causas de deterioro
+#### 2 Grado de contaminación del Río Lerma y causas de deterioro
 
 Un estudio de 2007 (Sedeño-Días y López-López) señala que el promedio de calidad de agua de este caudal (WQI por sus siglas en inglés Water Quality Index) es entre 32.3 y 43.6, una muy baja calidad considerando que el valor más alto es 100, y que por debajo de los 50 puntos no es apta para consumo humano. 
 
 La degradación de este río está densamente documentada. De acuerdo con esta información, podemos distinguir los factores de deterioro según su fuente: doméstica, agropecuarios e industriales.
-
 
 O utilizando codigo html `<img src="Logo_CdeCMx.png" width=200>`, la ventaja de utilizar html es que le puedes modificar el tamaño utilizando **width**.
 <img src="Logo_CdeCMx.png" width=200>
