@@ -40,6 +40,8 @@ Un estudio de 2007 (Sedeño-Días y López-López) señala que el promedio de ca
 
 La degradación de este río está densamente documentada. De acuerdo con esta información, podemos distinguir los factores de deterioro según su fuente: doméstica, agropecuarios e industriales.
 
+![](Calidad.png)
+
 O utilizando codigo html `<img src="Logo_CdeCMx.png" width=200>`, la ventaja de utilizar html es que le puedes modificar el tamaño utilizando **width**.
 <img src="Logo_CdeCMx.png" width=200>
 
