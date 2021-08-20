@@ -30,8 +30,9 @@ La fauna es representada por cientos de grupos de vertebrados e invertebrados. D
 ![](Flora.png)
 
 
-La región de Salvatierra sostiene a 97,054 habitantes. Las principales actividades económicas de la región son la agricultura, la ganadería y la industria textil. La agricultura constituye la principal actividad productiva, ya que genera el 26.17% del Producto Interno Bruto (PIB) de la región, abarca el 70% de extensión en el municipio y se produce 32 variedades de diferentes cultivos entre los que se incluye: guayaba, ajo, maíz, etc
+La región de Salvatierra sostiene a 97,054 habitantes. Las principales actividades económicas de la región son la agricultura, la ganadería y la industria textil. La agricultura constituye la principal actividad productiva, ya que genera el 26.17% del Producto Interno Bruto (PIB) de la región, abarca el 70% de extensión en el municipio y se produce 32 variedades de diferentes cultivos entre los que se incluye: guayaba, ajo, maíz, etc.
 
+![](Actividades.JPG)
 
 #### Grado de contaminación del Río Lerma y causas de deterioro
 
