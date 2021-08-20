@@ -77,9 +77,6 @@ El gobierno de Salvatierra tiene un plan de desarrollo urbano en el cual detalla
 
 ---
 
-O utilizando codigo html `<img src="Logo_CdeCMx.png" width=200>`, la ventaja de utilizar html es que le puedes modificar el tamaño utilizando **width**.
-<img src="Logo_CdeCMx.png" width=200>
-
 ![](https://imagenes.milenio.com/pWY0CtbcEZxQG6NTp1tG5Z62-xc=/936x566/https://www.milenio.com/uploads/media/2017/05/15/contaminacion-rio-lerma-rio-lerma.jpeg " Río Lerma, tomada por Milenio ")
 
 ### Conclusiones
@@ -87,6 +84,9 @@ O utilizando codigo html `<img src="Logo_CdeCMx.png" width=200>`, la ventaja de 
 ---
 
 Comparte tus observaciones, lo aprendedido, limitaciones y siguientes pasos. 
+
+
+
 
 ### Video
 
