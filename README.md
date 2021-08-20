@@ -51,6 +51,12 @@ La degradación de este río está densamente documentada. De acuerdo con esta i
 ---
 
 #### 4 Actores potenciales participantes en el saneamiento del río Lerma
+* Red Munners.
+Con Red Munners se pueden lograr voluntariados para la limpieza y monitoreo de la flora y fauna que se encuentre en la zona, mediante la propuesta de hacer un servicio profesional con alguna de las instituciones académicas que se encuentran cerca de la localidad.
+* Gobierno del municipio de Salvatierra.
+El gobierno de Salvatierra tiene un plan de desarrollo urbano en el cual detalla que para el cuidado del río, primero delimitará las zonas federales del río y esto ayudará a poder identificar las zonas de mayor impacto y así poder hacer una reconstrucción más ordenada.
+* Empresas que quieran ser reconocidas como ambientalmente responsables.
+El río Lerma se encuentra en constante uso por parte de empresas, ya sea por la descarga de residuos como del uso del agua para agricultura, ganado, etc. Por ello dar un reconocimiento a las empresas que eviten y regulen de manera correcta sus residuos o moderen su consumo de agua, se les hará acredoras de un certificado que avale que son ambientamente responsables dándoles un reconocimiento que es muy importante para la sociedad actualmente.
 
 ---
 
