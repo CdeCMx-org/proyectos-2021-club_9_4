@@ -85,8 +85,7 @@ El gobierno de Salvatierra tiene un plan de desarrollo urbano en el cual detalla
 
 Comparte tus observaciones, lo aprendedido, limitaciones y siguientes pasos. 
 
-
-
+Con el proyecto pudimos ver que el río Lerma no solo es uno de los ríos más contaminados de México, sino también uno de los más usados y es gracias a esto úlitmo que la restauración del río es algo muy importante, pero al ser también uno de los ríos más grandes, lo convierte en un proyecto demasiado difícil de coordinar, ya que se tendría que hacer un trabajo conjunto de los 5 estados por los cuales pasa y para ello se necesitaría que un gobierno estatal proponga y actue primero. El proyecto continuaría expandiendose a otros municipios de Guanajuato y posteriormete a otros estados, Jalisco sería una gran opción porque este es un gran prodcutor de tequila el cual es mediante el maguey, el cual es pieza clave para poder restaurar el río. 
 
 ### Video
 
