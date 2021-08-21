@@ -72,8 +72,9 @@ El gobierno de Salvatierra tiene un plan de desarrollo urbano en el cual detalla
 
 ---
 
-#### 5 Programa de saneamiento del río Lemra en el tramo Salvatierra, Guanajuato
+#### 5 Programa de saneamiento del río Lerma en el tramo Salvatierra, Guanajuato
 
+![](Cronograma.png)
 
 ---
 
