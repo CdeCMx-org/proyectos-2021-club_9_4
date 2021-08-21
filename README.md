@@ -30,7 +30,7 @@ La fauna es representada por cientos de grupos de vertebrados e invertebrados. D
 ![](Flora.png)
 
 
-La región de Salvatierra sostiene a 97,054 habitantes. Las principales actividades económicas de la región son la agricultura, la ganadería y la industria textil. La agricultura constituye la principal actividad productiva al abarcar el 70% de extensión en el municipio y producir 32 variedades de diferentes cultivos entre los que se incluye: guayaba, ajo, maíz y otros (H. Ayuntamiento de Salvatierra, 2018). Salvatierra también es una comunidad característica por sus actividades comerciales de curtiduría. 
+La región de Salvatierra sostiene a 97,054 habitantes. Las principales actividades económicas de la región son la agricultura, la ganadería y la industria textil. La agricultura constituye la principal actividad productiva al abarcar el 70% de extensión en el municipio y producir 32 variedades de diferentes cultivos entre los que se incluye: guayaba, ajo, maíz y otros (H. Ayuntamiento de Salvatierra, 2018). Salvatierra también es una comunidad característica por sus actividades comerciales de curtiduría (Guanajuato, 2012). 
 
 ![](Actividades.JPG)
 
@@ -52,6 +52,7 @@ La degradación de este río está densamente documentada. De acuerdo con esta i
 A continuación proponemos tres principales estrategias de saneamiento.
 
 ![](Métodos.png)
+
 ---
 
 #### 4 Actores potenciales participantes en el saneamiento del río Lerma
@@ -78,7 +79,7 @@ El río Lerma se encuentra en constante uso por parte de empresas, ya sea por la
 
 <img src="h2o.jpg" width=200 align="right">
 
-H20 Lerma es un colectivo que busca el saneamiento de los pozos mediante filtros químicos que están hechos con cascarones de huevo, óxido de magnesio y cal. Estas barreras logran filtrar contaminantes como mentales pesados y materia orgánica. Proponemos colaborar de forma activa con H2O Lerma básandonos en sus experiencias y estrategias de colecta para implementar esta estrategia de saneamiento de pozos en Salvatierra Guanajuato.
+H20 Lerma es un colectivo que busca el saneamiento de los pozos mediante filtros químicos que están hechos con cascarones de huevo, óxido de magnesio y cal. Estas barreras logran filtrar contaminantes como mentales pesados y materia orgánica. Proponemos colaborar de forma activa con H2O Lerma básandonos en sus experiencias y colecta de cascarones de huevo para implementar esta estrategia de saneamiento en pozos en Salvatierra Guanajuato.
 
 
 ---
@@ -94,8 +95,11 @@ H20 Lerma es un colectivo que busca el saneamiento de los pozos mediante filtros
 ### Conclusiones
 
 ---
+Durante esta versión de Clubes de Ciencia reconocimos que la principal problemática del Río Lerma es su estado de contaminación y deterioro. Al ser uno de los ríos más extensos de México, el Río Lerma no solo constituye uno de los ríos de mayor importancia ecológica, social y económica, sino que también es uno de los ríos más usados y uno de los más contaminados de nuestro país. La restauración ecológica del río Lerma debe ser una prioridad para los diferentes niveles gubernamentales, las industrias y la sociedad en general, por lo que todos debemos participar en su recuperación. 
 
-Con el proyecto pudimos ver que el río Lerma no solo es uno de los ríos más contaminados de México, sino también uno de los más usados y es gracias a esto úlitmo que la restauración del río es algo muy importante, pero al ser también uno de los ríos más grandes, lo convierte en un proyecto demasiado difícil de coordinar, ya que se tendría que hacer un trabajo conjunto de los 5 estados por los cuales pasa y para ello se necesitaría que un gobierno estatal proponga y actue primero. El proyecto continuaría expandiendose a otros municipios de Guanajuato y posteriormete a otros estados, Jalisco sería una gran opción porque este es un gran prodcutor de tequila el cual es mediante el maguey, el cual es pieza clave para poder restaurar el río. 
+La Restauración Ecológica del Río Lerma es una práctica que busca la recuperación de la estructura, funcionalidad y autosuficiencia semejantes a las presentadas previamente en el río ahora degradado. Sin embargo, por su extensión, y los diferentes niveles políticos y sociales que atraviesa, esta tarea es sumamente compleja de coordinar, ya que involucra a cinco estados de la Republica Mexicana, numerosas industrias y cientos de pueblos, comunidades y ciudades. Pese a este difícil escenario, consideramos que aún no es demasiado tarde para tomar las acciones necesarias para la restauración del Río Lerma. Hoy, como parte de Clubes de Ciencia, proponemos empezar por el saneamiento del río en Salvatierra, Guanajuato, una región centro representativa de otras comunidades aledañas al río. Con el plan de saneamiento buscamos generar las condiciones necesarias para seguir trabajando en proyectos que permitan la recuperación del Río y una restauración futura. Proyectamos que este trabajo continuará expandiendose a otros municipios de Guanajuato, y posteriormete a otros estados como Jalisco, Querétaro, Estado de México y Michoacán.
+
+Reconocemos que la participación colectiva es primordial por lo que invitamos a los lectores a conocer más sobre este importante río, saber cómo beneficia a tu comunidad, exigir a nivel local que se tomen las acciones necesarias para empezar su saneamiento y acercarse a los diferentes colectivos que mencionamos para dar continuidad a todo el proceso de restauración. ¡Tú también puedes colaborar!
 
 ### Video
 
@@ -117,10 +121,15 @@ Con el proyecto pudimos ver que el río Lerma no solo es uno de los ríos más c
 
 ### Bibliografía
 
-* López-Hernández, M. (2007, julio). Análisis multimétrico para evaluar contaminación en el río Lerma y lago de Chapala, México. SCIELO. [http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0188-88972007000400003](http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0188-88972007000400003)
-* Redacción AM. (2016, 26 abril). Contaminan El Sabinal en Salvatierra. am. [https://www.am.com.mx/noticias/Contaminan-El-Sabinal-en-Salvatierra-20160425-0066.html]
+* CONABIO, y IEE. (2015). Estrategia para la conservación y el uso sustentable de la Biodiversidad del estado de Guanajuato. CONABIO/IEE.
+* * Gobierno de Salvatierra. (2020). Programa Municipal de Desarrollo Urbano y de Ordenamiento.[https://seieg.iplaneg.net/seieg/doc/SALVATIERRA_VI_1590188318.pdf](https://seieg.iplaneg.net/seieg/doc/SALVATIERRA_VI_1590188318.pdf)
+* Guanajuato, D. S. (2018). Evolución de la Producción Agrícola en Guanajuato. gob.mx. http://www.gob.mx/agricultura|guanajuato/articulos/evolucion-de-la-produccion-agricola-en-guanajuato?idiom=es
+* Guanajuato, SEMARNAT, CONAGUA, y Comisión de Cuenca del Río Turbio. (2012). Tecnologías Más Limpias en la Industria de la Curtiduría en la ciudad de León, Gto. Comisión Estatal del Agua.
 * Guanajuato - Salvatierra. (s. f.). INAFED. Recuperado 19 de agosto de 2021, de [http://www.inafed.gob.mx/work/enciclopedia/EMM11guanajuato/municipios/11028a.html](http://www.inafed.gob.mx/work/enciclopedia/EMM11guanajuato/municipios/11028a.html)
-* Gobierno de Salvatierra. (2020). Programa Municipal de Desarrollo Urbano y de Ordenamiento.[https://seieg.iplaneg.net/seieg/doc/SALVATIERRA_VI_1590188318.pdf](https://seieg.iplaneg.net/seieg/doc/SALVATIERRA_VI_1590188318.pdf)
-* Secretaría de Medio Ambiente y Recursos Naturales. (2020). PROYECTO HIDROELECTRICO PARA LA GENERACION DE ENERGIA RENOVABLE DE LA HIDROELECTRICA LA CAROLINA, SALVATIERRA, GUANAJUATO, MEX. [https://apps1.semarnat.gob.mx:8443/dgiraDocs/documentos/gto/estudios/2019/11GU2019E0111.pdf](https://apps1.semarnat.gob.mx:8443/dgiraDocs/documentos/gto/estudios/2019/11GU2019E0111.pdf)
+* H. Ayuntamiento de Salvatierra. (2018). Guanajuato—Salvatierra. Salvatierra. http://www.inafed.gob.mx/work/enciclopedia/EMM11guanajuato/municipios/11028a.html
+* López-Hernández, M. (2007). Análisis multimétrico para evaluar contaminación en el río Lerma y lago de Chapala, México. SCIELO. [http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0188-88972007000400003](http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0188-88972007000400003)
+* Redacción AM. (2016, 26 abril). Contaminan El Sabinal en Salvatierra. am. [https://www.am.com.mx/noticias/Contaminan-El-Sabinal-en-Salvatierra-20160425-0066.html]
+*  Secretaría de Medio Ambiente y Recursos Naturales. (2020). PROYECTO HIDROELECTRICO PARA LA GENERACION DE ENERGIA RENOVABLE DE LA HIDROELECTRICA LA CAROLINA, SALVATIERRA, GUANAJUATO, MEX. [https://apps1.semarnat.gob.mx:8443/dgiraDocs/documentos/gto/estudios/2019/11GU2019E0111.pdf](https://apps1.semarnat.gob.mx:8443/dgiraDocs/documentos/gto/estudios/2019/11GU2019E0111.pdf)
+* Sedeño-Díaz, J. E., y López-López, E. (2007). Water Quality in the Río Lerma, Mexico: An Overview of the Last Quarter of the Twentieth Century. Water Resources Management, 21(10), 1797-1812. https://doi.org/10.1007/s11269-006-9128-x
 
 
