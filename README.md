@@ -123,13 +123,13 @@ Reconocemos que la participación colectiva es primordial por lo que invitamos a
 
 * CONABIO, y IEE. (2015). Estrategia para la conservación y el uso sustentable de la Biodiversidad del estado de Guanajuato. CONABIO/IEE.
 * * Gobierno de Salvatierra. (2020). Programa Municipal de Desarrollo Urbano y de Ordenamiento.[https://seieg.iplaneg.net/seieg/doc/SALVATIERRA_VI_1590188318.pdf](https://seieg.iplaneg.net/seieg/doc/SALVATIERRA_VI_1590188318.pdf)
-* Guanajuato, D. S. (2018). Evolución de la Producción Agrícola en Guanajuato. gob.mx. http://www.gob.mx/agricultura|guanajuato/articulos/evolucion-de-la-produccion-agricola-en-guanajuato?idiom=es
+* Guanajuato, D. S. (2018). Evolución de la Producción Agrícola en Guanajuato. gob.mx. [http://www.gob.mx/agricultura|guanajuato/articulos/evolucion-de-la-produccion-agricola-en-guanajuato?idiom=es]
 * Guanajuato, SEMARNAT, CONAGUA, y Comisión de Cuenca del Río Turbio. (2012). Tecnologías Más Limpias en la Industria de la Curtiduría en la ciudad de León, Gto. Comisión Estatal del Agua.
 * Guanajuato - Salvatierra. (s. f.). INAFED. Recuperado 19 de agosto de 2021, de [http://www.inafed.gob.mx/work/enciclopedia/EMM11guanajuato/municipios/11028a.html](http://www.inafed.gob.mx/work/enciclopedia/EMM11guanajuato/municipios/11028a.html)
-* H. Ayuntamiento de Salvatierra. (2018). Guanajuato—Salvatierra. Salvatierra. http://www.inafed.gob.mx/work/enciclopedia/EMM11guanajuato/municipios/11028a.html
-* López-Hernández, M. (2007). Análisis multimétrico para evaluar contaminación en el río Lerma y lago de Chapala, México. SCIELO. [http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0188-88972007000400003](http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0188-88972007000400003)
-* Redacción AM. (2016, 26 abril). Contaminan El Sabinal en Salvatierra. am. [https://www.am.com.mx/noticias/Contaminan-El-Sabinal-en-Salvatierra-20160425-0066.html]
+* H. Ayuntamiento de Salvatierra. (2018). Guanajuato—Salvatierra. Salvatierra. [http://www.inafed.gob.mx/work/enciclopedia/EMM11guanajuato/municipios/11028a.htm]
+* López-Hernández, M. (2007). Análisis multimétrico para evaluar contaminación en el río Lerma y lago de Chapala, México. SCIELO. [http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0188-88972007000400003]
+* Redacción AM. (2016, 26 abril). Contaminan El Sabinal en Salvatierra. [https://www.am.com.mx/noticias/Contaminan-El-Sabinal-en-Salvatierra-20160425-0066.html]
 *  Secretaría de Medio Ambiente y Recursos Naturales. (2020). PROYECTO HIDROELECTRICO PARA LA GENERACION DE ENERGIA RENOVABLE DE LA HIDROELECTRICA LA CAROLINA, SALVATIERRA, GUANAJUATO, MEX. [https://apps1.semarnat.gob.mx:8443/dgiraDocs/documentos/gto/estudios/2019/11GU2019E0111.pdf](https://apps1.semarnat.gob.mx:8443/dgiraDocs/documentos/gto/estudios/2019/11GU2019E0111.pdf)
-* Sedeño-Díaz, J. E., y López-López, E. (2007). Water Quality in the Río Lerma, Mexico: An Overview of the Last Quarter of the Twentieth Century. Water Resources Management, 21(10), 1797-1812. https://doi.org/10.1007/s11269-006-9128-x
+* Sedeño-Díaz, J. E., y López-López, E. (2007). Water Quality in the Río Lerma, Mexico: An Overview of the Last Quarter of the Twentieth Century. Water Resources Management, 21(10), 1797-1812. [https://doi.org/10.1007/s11269-006-9128-x]
 
 
