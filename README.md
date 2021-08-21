@@ -123,7 +123,7 @@ Reconocemos que la participación colectiva es primordial por lo que invitamos a
 
 * CONABIO, y IEE. (2015). Estrategia para la conservación y el uso sustentable de la Biodiversidad del estado de Guanajuato. CONABIO/IEE.
 * Gobierno de Salvatierra. (2020). Programa Municipal de Desarrollo Urbano y de Ordenamiento.[https://seieg.iplaneg.net/seieg/doc/SALVATIERRA_VI_1590188318.pdf]
-* Guanajuato, D. S. (2018). Evolución de la Producción Agrícola en Guanajuato. gob.mx. [http://www.gob.mx/agricultura|guanajuato/articulos/evolucion-de-la-produccion-agricola-en-guanajuato?idiom=es]
+* Guanajuato, D. S. (2018). Evolución de la Producción Agrícola en Guanajuato. [http://www.gob.mx/agricultura/guanajuato/articulos/evolucion-de-la-produccion-agricola-en-guanajuato?idiom=es]
 * Guanajuato, SEMARNAT, CONAGUA, y Comisión de Cuenca del Río Turbio. (2012). Tecnologías Más Limpias en la Industria de la Curtiduría en la ciudad de León, Gto. Comisión Estatal del Agua.
 * Guanajuato - Salvatierra. (s. f.). INAFED. Recuperado 19 de agosto de 2021, de [http://www.inafed.gob.mx/work/enciclopedia/EMM11guanajuato/municipios/11028a.html]
 * H. Ayuntamiento de Salvatierra. (2018). Guanajuato—Salvatierra. Salvatierra. [http://www.inafed.gob.mx/work/enciclopedia/EMM11guanajuato/municipios/11028a.htm]
