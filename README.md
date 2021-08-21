@@ -22,13 +22,15 @@ El **ODS** involucrado en nuestro club *Sustainable Ecosystem Restoration* es el
 #### 1 Caracterización socioecológica del Río Lerma en la región de Salvatierra, Guanajuato
 
 Salvatierra es un municipio del estado de Guanajuato que se coincide hidrológicamente con las cuencas río Lerma-Salamanca y laguna de Pátzcuaro-Cuitzeo-Yuridia. En esta región dominan los climas: semicálido (semicálido subhúmedo) y templado (templado subhúmedo). La temperatura oscila entre 2 y 33.4 °C, con una media anual de 18.1°C. La precipitación pluvial ronda los 730mm anuales (CONABIO y IEE, 2015).
+
+
 La flora asociada al Río Lerma es: ahuehuete, sauce, carrizal y pino. Sin embargo, la diversidad de flora es diversa también en zonas aledañas, donde se puede observar huisache, mezquite, pirul, nopales, joconostle, garambullo y navajillo (H. Ayuntamiento de Salvatierra, 2018).
 La fauna es representada por cientos de grupos de vertebrados e invertebrados. Dentro de los animales más representados encontramos: conejo, tlacuache, coyote, ardilla, coralillo, alicante, zorrillo, lagartija, peces de río, zopilotes, gavilanes y palomas (H. Ayuntamiento de Salvatierra, 2018).
 
 ![](Flora.png)
 
 
-La región de Salvatierra sostiene a 97,054 habitantes. Las principales actividades económicas de la región son la agricultura, la ganadería y la industria textil. La agricultura constituye la principal actividad productiva, ya que genera el 26.17% del Producto Interno Bruto (PIB) de la región, abarca el 70% de extensión en el municipio y se produce 32 variedades de diferentes cultivos entre los que se incluye: guayaba, ajo, maíz, etc.
+La región de Salvatierra sostiene a 97,054 habitantes. Las principales actividades económicas de la región son la agricultura, la ganadería y la industria textil. La agricultura constituye la principal actividad productiva al abarcar el 70% de extensión en el municipio y producir 32 variedades de diferentes cultivos entre los que se incluye: guayaba, ajo, maíz y otros (H. Ayuntamiento de Salvatierra, 2018). Salvatierra también es una comunidad característica por sus actividades comerciales de curtiduría. 
 
 ![](Actividades.JPG)
 
@@ -38,7 +40,8 @@ La región de Salvatierra sostiene a 97,054 habitantes. Las principales activida
 
 Un estudio de 2007 (Sedeño-Días y López-López) señala que el promedio de calidad de agua de este caudal (WQI por sus siglas en inglés Water Quality Index) es entre 32.3 y 43.6, una muy baja calidad considerando que el valor más alto es 100, y que por debajo de los 50 puntos no es apta para consumo humano. 
 
-La degradación de este río está densamente documentada. De acuerdo con esta información, podemos distinguir los factores de deterioro según su fuente: doméstica, agropecuarios e industriales.
+La degradación de este río está densamente documentada. De acuerdo con esta información, podemos distinguir los factores de deterioro según su fuente: doméstica, agropecuarios e industriales. Las fuentes domésticas son desechos que provienen de lugares públicos y privados. Debido al rápido crecimiento de Salvatierra, muchas zonas no poseen un drenaje planificado ni una planta de tratamiento de residuos,  por lo que dichas aguas se vierten directamente en los cuerpos de agua por los alcantarillados pluviales. Estas mismas escorrentías arrastran residuos de plaguicidas y pesticidas empleados en el suelo para la mejora de cultivos. Sin embargo, la base de estos productos son altamente contaminantes para los cuerpos de agua. Por su parte, la industria del curtido de pieles es una de las más contaminantes por el tipo de desechos que genera a lo largo de su proceso productivo. Muchos de estos residuos terminan en el río Lerma contribuyendo a su contaminación. La principal característica del agua que fluye por este río es un color grisáceo y un mal olor, debido en gran parte a los efluentes líquidos de la industria del curtido que tienen altas concentraciones de materia orgánica, compuestos de nitrógeno, sulfuros, pHs elevados, sólidos suspendidos y compuestos de cromo (Guanajuato, 2012).
+
 
 ![](Calidad.png)
 
@@ -46,28 +49,36 @@ La degradación de este río está densamente documentada. De acuerdo con esta i
 
 #### 3 Estrategias ecológicas para saneamiento del río Lerma en el tramo Salvatierra, Guanajuato
 
+A continuación proponemos tres principales estrategias de saneamiento.
+
 ![](Métodos.png)
 ---
 
 #### 4 Actores potenciales participantes en el saneamiento del río Lerma
-<img src="munners-logo.png" width=100 align="right">
+
+<img src="munners-logo.png" width=200 align="right">
 
 * Red Munners.
 
-Con Red Munners se pueden lograr voluntariados para la limpieza y monitoreo de la flora y fauna que se encuentre en la zona, mediante la propuesta de hacer un servicio profesional con alguna de las instituciones académicas que se encuentran cerca de la localidad. 
+Con Red Munners se pueden lograr voluntariados para la limpieza y monitoreo de la flora y fauna que se encuentre en la zona. Proponemos la participación de jóvenes que, como nosotros, se interesen en la mejora de su entorno, por lo que buscamos la vinculación entre Red Munners e instituciones educativas cercanas a la localidad para la generación servicios sociales y profesionales.
 
-<img src="logo - salvatierra.jfif" width=100 align="right">
+<img src="logo - salvatierra.jfif" width=200 align="right">
 
 * Gobierno del municipio de Salvatierra.
 
-El gobierno de Salvatierra tiene un plan de desarrollo urbano en el cual detalla que para el cuidado del río, primero delimitará las zonas federales del río y esto ayudará a poder identificar las zonas de mayor impacto y así poder hacer una reconstrucción más ordenada.
-
-
+El gobierno de Salvatierra tiene un plan de desarrollo urbano en el cual detalla que para el cuidado y recuperación del río. Proponemos que en conjunto con el gobierno local se delimiten las zonas federales del río, se establezcan los alcances del plan de saneamiento y se provea del apoyo económico para las diferentes etapas. Esto ayudará a poder identificar las zonas de mayor impacto y llevar a cabo el plan de saneamiento, y restauración, de forma ordenada.
 
 * Empresas que quieran ser reconocidas como ambientalmente responsables.
 
-<img src="ods.jpg" width=200 align="right">El río Lerma se encuentra en constante uso por parte de empresas, ya sea por la descarga de residuos como del uso del agua para agricultura, ganado, etc. Por ello dar un reconocimiento a las empresas que eviten y regulen de manera correcta sus residuos o moderen su consumo de agua, se les hará acredoras de un certificado que avale que son ambientamente responsables dándoles un reconocimiento que es muy importante para la sociedad actualmente. 
+<img src="ods.jpg" width=200 align="right">
 
+El río Lerma se encuentra en constante uso por parte de empresas, ya sea por la descarga de residuos como del uso del agua para agricultura, ganado, etc. Por ello dar un reconocimiento a las empresas que eviten y regulen de manera correcta sus residuos, o moderen su consumo de agua, se les hará acredoras de un certificado que avale que son ambientamente responsables. Este reconocimiento es muy importante para la sociedad actualmente y da un valor agregado al producto que elaboren.
+
+* Colaboración con colectivo H2O Lerma.
+
+<img src="h2o.jpg" width=200 align="right">
+
+H20 Lerma es un colectivo que busca el saneamiento de los pozos mediante filtros químicos que están hechos con cascarones de huevo, óxido de magnesio y cal. Estas barreras logran filtrar contaminantes como mentales pesados y materia orgánica. Proponemos colaborar de forma activa con H2O Lerma básandonos en sus experiencias y estrategias de colecta para implementar esta estrategia de saneamiento de pozos en Salvatierra Guanajuato.
 
 
 ---
@@ -83,8 +94,6 @@ El gobierno de Salvatierra tiene un plan de desarrollo urbano en el cual detalla
 ### Conclusiones
 
 ---
-
-Comparte tus observaciones, lo aprendedido, limitaciones y siguientes pasos. 
 
 Con el proyecto pudimos ver que el río Lerma no solo es uno de los ríos más contaminados de México, sino también uno de los más usados y es gracias a esto úlitmo que la restauración del río es algo muy importante, pero al ser también uno de los ríos más grandes, lo convierte en un proyecto demasiado difícil de coordinar, ya que se tendría que hacer un trabajo conjunto de los 5 estados por los cuales pasa y para ello se necesitaría que un gobierno estatal proponga y actue primero. El proyecto continuaría expandiendose a otros municipios de Guanajuato y posteriormete a otros estados, Jalisco sería una gran opción porque este es un gran prodcutor de tequila el cual es mediante el maguey, el cual es pieza clave para poder restaurar el río. 
 
