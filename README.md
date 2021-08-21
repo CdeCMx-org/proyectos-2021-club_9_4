@@ -48,6 +48,7 @@ La degradación de este río está densamente documentada. De acuerdo con esta i
 
 #### 3 Estrategias ecológicas para saneamiento del río Lerma en el tramo Salvatierra, Guanajuato
 
+![](Métodos.png)
 ---
 
 #### 4 Actores potenciales participantes en el saneamiento del río Lerma
