@@ -4,9 +4,9 @@
 
 ### Introducción
 
-El proyecto se enfoca en restaurar el Río Lerma el cual es uno de los ríos más grandes del México, que pasa por los estados de Jalisco, Querétaro, Guanajuato, Michoacán y el Estado de México. La importancia del río no solo es por su extención, sino porque aparte es uno de los ríos de mayor uso intensivo, que sostiene a varias industrias como campos agrícolas y ganaderos, de alimentos, farmacéuticas, de papel, entre otras. Por ello, restaurar el río Lerma es muy importante para poder evitar que estas industrias pierdan recursos y que las poblaciones cercanas sufran consecuencias a su salud, debido al mal estado del río.
+El proyecto se enfoca en el saneamiento del Río Lerma como primer paso hacia su restauración ecológica. El Río Lerma es uno de los ríos más grandes de México, con 750 km de largo pasa por los estados de Jalisco, Querétaro, Guanajuato, Michoacán y el Estado de México. Este río constituye uno de los cuerpos de agua más importantes de nuestro país no sólo por sostener numerosos pueblos y ciudades del centro de México, sino porque es uno de los ríos de mayor uso intensivo por industrias de campos agrícolas y ganaderos, de alimentos, farmacéuticas, de papel, de curtiduría, entre otras. Sin embargo, esto mismo hace que el Río Lerma esté sometido a constantes presiones antrópicas que hacen de este importante río uno de los más degradados de México (Sedeño-Díaz y López-López 2007). Restaurar el Río Lerma debe ser una prioridad a nivel local, estatal y federal por todos los servicios ecosistémicos que ofrece y por la diversidad biológica que tiene, aspectos que se ven realmente comprometidos y en peligro por sus altos niveles de contaminación. Asimismo, recuperar la estructura y funcionalidad de este cuerpo de agua es muy importante para evitar pérdidas económicas en las industrias que sostiene y para evitar que las poblaciones cercanas sufran consecuencias a su salud debido al mal estado del río.
 
-El **ODS** involucrado en nuestro club es el No. 15 "Vida de Ecosistemas Terrestres", el cual consiste en restaurar y cuidar ecosistemas dañados para evitar enfermedades generadas por estos ecosistemas, además de preservar la fauna y flora que contengan estos ecosistemas. Nuestro proyecto involucra la cooperación no solo de la sociedad y gobierno, sino también del sector privado para que se evite la descarga de residuos dañinos para el río, además de generar una regulación para el manejor de residuos de las industrias y generar empleos que sea sostenibles gracias al río. Durante el club logramos aprender estrategias para poder monitorear especies, ver la restauración de un ecosistema muy dañado y ver estrategias para obtener fondos y apoyo para que el proyecto se pueda realizar.
+El **ODS** involucrado en nuestro club *Sustainable Ecosystem Restoration* es el No. 15 "Vida de Ecosistemas Terrestres". Este objetivo consiste en restaurar y cuidar ecosistemas dañados para evitar enfermedades generadas por estos ecosistemas, además de preservar la fauna y flora que los habitan. Nuestro proyecto busca dar el primer paso hacia la restauración ecológica del Río Lerma, ya que, por las características de este cuerpo de agua, su restauración ecológica trasciende a diferentes niveles sociales y ecoógicos.  Nuestro principal objetivo es generar las condiciones necesarias para implementar estrategias de restauración más factibles en el futuro. En este sentido, buscamos involucrar a las comunidades, industrias y gobiernos locales en la concientización sobre la importancia del río y su estado de deterioro, evitar la descarga de residuos dañinos, contribuir a su limpieza y saneamiento, y generar empleos que sean sostenibles gracias al buen estado del río. Durante el club logramos aprender estrategias que nos permitieran alcanzar estos objetivos a través de temas  como: restauración de ecosistemas acuáticos, estrategias de bioremediación, monitoreo de especies, estrategias para obtener fondos y apoyo para la implementación de proyectos.
 
 ### Objetivos particulares
 
@@ -74,7 +74,7 @@ El gobierno de Salvatierra tiene un plan de desarrollo urbano en el cual detalla
 
 #### 5 Programa de saneamiento del río Lerma en el tramo Salvatierra, Guanajuato
 
-![](Cronograma.png)
+![](Crono.png)
 
 ---
 
@@ -103,7 +103,7 @@ Con el proyecto pudimos ver que el río Lerma no solo es uno de los ríos más c
 ---
 
 * Rojas Martínez Jonathan Francisco
-* García Noemí
+* García Ponce Noemí
 
 
 ### Bibliografía
