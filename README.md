@@ -106,8 +106,11 @@ Reconocemos que la participación colectiva es primordial por lo que invitamos a
 ---
 
  1. Para insertar un video de YouTube, en la página de YouTube del video selecciona compartir y selecciona el código de html.
- <iframe width="560" height="315" src="https://youtu.be/Q2KgcCuiaO8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/PLj1-CMNERM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
+ 2. Insertar el link de tu video en YouTube, [nuestro video](https://youtu.be/rmXvlBPq24Q).
+ 4. Puedes subir el archivo de tu video directamente a Github [instrucciones aquí](https://stackoverflow.com/questions/4279611/how-to-embed-a-video-into-github-readme-md)
+ 
 ### Equipo
 
 ---
@@ -126,7 +129,8 @@ Reconocemos que la participación colectiva es primordial por lo que invitamos a
 * H. Ayuntamiento de Salvatierra. (2018). Guanajuato—Salvatierra. Salvatierra. [http://www.inafed.gob.mx/work/enciclopedia/EMM11guanajuato/municipios/11028a.htm]
 * López-Hernández, M. (2007). Análisis multimétrico para evaluar contaminación en el río Lerma y lago de Chapala, México. SCIELO. [http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0188-88972007000400003]
 * Redacción AM. (2016, 26 abril). Contaminan El Sabinal en Salvatierra. [https://www.am.com.mx/noticias/Contaminan-El-Sabinal-en-Salvatierra-20160425-0066.html]
-*  Secretaría de Medio Ambiente y Recursos Naturales. (2020). PROYECTO HIDROELECTRICO PARA LA GENERACION DE ENERGIA RENOVABLE DE LA HIDROELECTRICA LA CAROLINA, SALVATIERRA, GUANAJUATO, MEX. [https://apps1.semarnat.gob.mx:8443/dgiraDocs/documentos/gto/estudios/2019/11GU2019E0111.pdf]
+* Rumaja, A., Huamán, J. Z., y Cardona, A. (2018). Capacidad fitorremediadora de Hydrocotyle ranunculoides L. f., en aguas contaminadas con mercurio | Ambiente, Comportamiento y Sociedad. Ambiente, Comportamiento Y Sociedad, 1(2), 1-28. https://doi.org/10.51343/racs.v1i2.577
+* Secretaría de Medio Ambiente y Recursos Naturales. (2020). PROYECTO HIDROELECTRICO PARA LA GENERACION DE ENERGIA RENOVABLE DE LA HIDROELECTRICA LA CAROLINA, SALVATIERRA, GUANAJUATO, MEX. [https://apps1.semarnat.gob.mx:8443/dgiraDocs/documentos/gto/estudios/2019/11GU2019E0111.pdf]
 * Sedeño-Díaz, J. E., y López-López, E. (2007). Water Quality in the Río Lerma, Mexico: An Overview of the Last Quarter of the Twentieth Century. Water Resources Management, 21(10), 1797-1812. [https://doi.org/10.1007/s11269-006-9128-x]
 
 
