@@ -106,12 +106,11 @@ Reconocemos que la participación colectiva es primordial por lo que invitamos a
 ---
 
  1. Para insertar un video de YouTube, en la página de YouTube del video selecciona compartir y selecciona el código de html.
- <iframe width="560" height="315" src="https://www.youtube.com/embed/PLj1-CMNERM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <iframe width="560" height="315" src="https://youtu.be/Q2KgcCuiaO8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
- Pueden ver nuestro video acerca del proyecto aquí, [Restauración Río Lerma](https://www.youtube.com/embed/PLj1-CMNERM).
+ Pueden ver nuestro video acerca del proyecto aquí, [Restauración Río Lerma](https://youtu.be/Q2KgcCuiaO8).
  
- 2. Insertar el link de tu video en YouTube, [nuestro video](https://youtu.be/rmXvlBPq24Q).
- 4. Puedes subir el archivo de tu video directamente a Github [instrucciones aquí](https://stackoverflow.com/questions/4279611/how-to-embed-a-video-into-github-readme-md)
+ 2. Insertar el link de tu video en YouTube, [nuestro video](https://youtu.be/Q2KgcCuiaO8).
  
 ### Equipo
 
